@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <!-- QUICKY hap-1: Kapsül kuyruk. Kum halka Q gövdesi; kuyruk, halkayı kesen iki renkli kapsül (iç yarı kum, dış yarı amber). -->
+  <rect width="1024" height="1024" fill="#0F766E"/>
+  <circle cx="470" cy="470" r="230" fill="none" stroke="#F5F3EE" stroke-width="140"/>
+  <g transform="translate(655 655) rotate(45)">
+    <rect x="-245" y="-115" width="490" height="230" rx="115" fill="#0F766E"/>
+    <path d="M-10,-85 H-130 A85,85 0 0 0 -130,85 H-10 Z" fill="#F5F3EE"/>
+    <path d="M10,-85 H130 A85,85 0 0 1 130,85 H10 Z" fill="#F59E0B"/>
+  </g>
+</svg>
